@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    color:brown
+}
+a{
+    color:rgb(9, 6, 48);
+}
+body
+{
+    
+    background-color: blueviolet;
+    background-image: url(./Images/AFM.PNG);
+}
+.containd
+{
+    background-image:url(./Images/AFM.PNG);
+    /*background-position: cover;*/
+    /*position: absolute;*/
+    background-size: 100% 100%;
+    /*z-index: 0;*/
+    left: 40px;
+    top: 125px;
+    width:100%;
+    height:100%;
+    /*margin: 0 auto;*/
+    background-repeat: no-repeat;
+    background-color:rgb(36, 5, 2) 
+}
+.BtnAFM
+{
+    color:orange;
+    width: 75px;
+}
