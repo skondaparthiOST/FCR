@@ -19,7 +19,7 @@ export class AppComponent {
    ngOnInit():void{}
    nextPage() {
     
-    console.log('going to the next page....');
+    //console.log('going to the next page....');
 this.router.navigate(['/SEAS'],{replaceUrl:true});
 this.nos= this.nos+1;
 
